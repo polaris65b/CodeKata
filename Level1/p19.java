@@ -19,8 +19,5 @@ public class p19 {
         return -1;
     }
 
-    public static void main(String[] args) {
-        p19 sol = new p19();
-        System.out.println(sol.solution(121));
-    }
+
 }

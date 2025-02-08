@@ -5,8 +5,9 @@ import CodeKata.Level1.*;
 
 public class Main {
     public static void main(String[] args) {
-        P24 sol = new P24();
-        String[] seoul = {"Jane", "Kim"};
-        System.out.println(sol.solution(seoul));
+        P25 sol = new P25();
+        int[] arr = {5, 9, 7, 10};
+        int divisor = 5;
+        System.out.println(sol.solution(arr, divisor));
     }
 }

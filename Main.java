@@ -5,9 +5,8 @@ import CodeKata.Level1.*;
 
 public class Main {
     public static void main(String[] args) {
-        P23 sol = new P23();
-        System.out.println(sol.solution(6));
-        System.out.println(sol.solution(16));
-        System.out.println(sol.solution(626331));
+        P24 sol = new P24();
+        String[] seoul = {"Jane", "Kim"};
+        System.out.println(sol.solution(seoul));
     }
 }

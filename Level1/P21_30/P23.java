@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P21_30;
 
 public class P23 {
     public int solution(int num) {

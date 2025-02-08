@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P1_10;
 
 class p8 {
     public int solution(int angle) {

@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P11_20;
 
 public class p18 {
     public int solution(String s){

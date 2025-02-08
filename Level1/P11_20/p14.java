@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P11_20;
 
 public class p14 {
     public static void main(String[] args) {

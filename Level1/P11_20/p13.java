@@ -1,6 +1,4 @@
-package CodeKata.Level1;
-
-import java.util.*;
+package CodeKata.Level1.P11_20;
 
 public class p13 {
     public int solution(int n) {

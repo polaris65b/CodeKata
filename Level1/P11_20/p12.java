@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P11_20;
 
 class p12 {
     public double solution(int[] arr) {

@@ -1,4 +1,4 @@
-package CodeKata.Level1;
+package CodeKata.Level1.P1_10;
 
 class p2 {
     public int solution(int num1, int num2) {

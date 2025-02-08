@@ -1,6 +1,6 @@
 package CodeKata;
 
-import CodeKata.Level1.*;
+import CodeKata.Level1.P21_30.P25;
 //import CodeKata.Level2.*;
 
 public class Main {

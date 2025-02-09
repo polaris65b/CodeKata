@@ -1,13 +1,17 @@
 package CodeKata;
 
-import CodeKata.Level1.P21_30.P25;
-//import CodeKata.Level2.*;
+import CodeKata.Level1.P21_30.*;
 
 public class Main {
     public static void main(String[] args) {
-        P25 sol = new P25();
-        int[] arr = {5, 9, 7, 10};
-        int divisor = 5;
-        System.out.println(sol.solution(arr, divisor));
+        P26 sol = new P26();
+
+        int[] absolutes = {4, 7, 12};
+        boolean[] signs = {true, false, true};
+        System.out.println(sol.solution(absolutes, signs));
+
+        absolutes = new int[]{1, 2, 3};
+        signs = new boolean[]{false, false, true};
+        System.out.println(sol.solution(absolutes, signs));
     }
 }
